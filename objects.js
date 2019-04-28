@@ -1,4 +1,5 @@
-var playlist={"Alienata",'TLR'}
+var playlist = {"Alienata", "TLR"}
+
 
 
 
