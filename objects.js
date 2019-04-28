@@ -1,4 +1,4 @@
-var playlist={artistName:"Alienata".songTitle:'TLR'}
+var playlist={"Alienata",'TLR'}
 
 
 
