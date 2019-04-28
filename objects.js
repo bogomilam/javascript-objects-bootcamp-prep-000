@@ -1,5 +1,5 @@
-var playlist = 'artist':"Alienata","Intergalactic"};
-playlist.artist = 'TLR'
+var playlist = {artistName:songTitle}
+
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName]=songTitle
